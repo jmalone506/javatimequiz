@@ -1,6 +1,6 @@
 var i = 0;
 var score = 0;
-var secondsLeft = 59;
+var secondsLeft = 60;
 var timer = document.querySelector("#time");
 var messageDiv = document.querySelector("#message");
 var storedScores;
