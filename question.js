@@ -6,7 +6,7 @@ var questions = [
     },
     {
       title: "what is the id symbol?",
-      choices: ["6", "#", "<subjet>", "<script>"],
+      choices: ["6", "#", "<class>", "<script>"],
       answer: "#"
     },
     {
